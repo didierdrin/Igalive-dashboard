@@ -68,7 +68,7 @@ export default function Layout({ children }: LayoutProps) {
           <div className="flex items-center space-x-2">
               <div className="h-8 w-8 rounded-full overflow-hidden">
                 <Image 
-                  src="/emerald.jpg" 
+                  src="/igalive-icon.png" 
                   alt="IgaLive Logo" 
                   width={32} 
                   height={32} 
