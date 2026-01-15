@@ -56,7 +56,7 @@ export default function AuthPage() {
         <div>
           <div className="mx-auto h-12 w-12 rounded-full overflow-hidden">
             <Image 
-              src="/emerald.jpg" 
+              src="/igalive-icon.png" 
               alt="IgaLive Logo" 
               width={48} 
               height={48} 
